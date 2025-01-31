@@ -2,6 +2,8 @@
 
 A minimalist typing speed test application built with React. Test and improve your typing speed with real-time WPM tracking.
 
+![Screenshot 2025-01-31 at 1 41 21 AM](https://github.com/user-attachments/assets/4f777d33-b3e5-4b5c-ad80-f7744c852783)
+
 ## Features
 
 - Real-time WPM (Words Per Minute) calculation
